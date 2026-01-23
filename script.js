@@ -13,3 +13,6 @@ function addNote(){
         </div>
         <textarea></textarea>
     `;
+
+
+const trashIcon = note.querySelector(".trash");
