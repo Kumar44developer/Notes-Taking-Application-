@@ -84,3 +84,6 @@ body{
         background-color: #293e46;
 }
 
+.note textarea:focus{
+    outline: none;
+}
