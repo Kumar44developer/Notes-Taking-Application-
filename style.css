@@ -34,3 +34,6 @@ body{
     transition: background-color 0.3s ease;
 }
 
+#addBtn:hover{
+    background-color: #06a006;
+}
