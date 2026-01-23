@@ -20,3 +20,5 @@ const saveIcon = note.querySelector(".save");
 const textarea = note.querySelector("textarea");
 
 trashIcon.addEventListener("click",()=>{
+    note.remove();
+
