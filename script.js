@@ -7,5 +7,6 @@ function addNote(){
     const note = document.createElement("div");
     note.classList.add("note");
         note.innerHTML = `
-
+        <div class="tool">
+            <i class="save fas fa-save"></i>
 
