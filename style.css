@@ -73,3 +73,5 @@ body{
     padding: 10px;
     font-size: 16px;
     color: white;
+    overflow: hidden;
+    background-color: #393e46;
