@@ -76,4 +76,5 @@ body{
     overflow: hidden;
     background-color: #393e46;
     border-radius: 0px 0px 10px 10px;
-
+    transition: background-color 0.3s ease;
+}
