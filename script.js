@@ -5,3 +5,5 @@ addBtn.addEventListener("click",addNote);
 
 function addNote(){
     const note = document.createElement("div");
+    note.classList.add("note");
+
