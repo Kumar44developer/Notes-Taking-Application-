@@ -9,4 +9,5 @@ function addNote(){
         note.innerHTML = `
         <div class="tool">
             <i class="save fas fa-save"></i>
-
+            <i class="trash fas fa-trash"></i>
+        </div>
