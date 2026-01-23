@@ -17,3 +17,5 @@ function addNote(){
 
 const trashIcon = note.querySelector(".trash");
 const saveIcon = note.querySelector(".save");
+const textarea = note.querySelector("textarea");
+
