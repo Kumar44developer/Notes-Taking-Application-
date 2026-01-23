@@ -54,5 +54,6 @@ body{
     justify-content: flex-end;
 }
 
-
+.tool i{
+    padding: 5px;
 
