@@ -69,3 +69,5 @@ body{
     width: 300px;
     border: none;
     min-height: 220px; 
+    resize: none;     
+    padding: 10px;
