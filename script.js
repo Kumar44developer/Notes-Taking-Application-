@@ -36,6 +36,9 @@ function saveNote(){
     const notes = document.querySelectorAll(".note textarea")
         const data = [];
     for(let i = 0; i < notes.length; i++)
+    {
+        data.push(notes[i].value);
+    }
 
 
 
