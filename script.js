@@ -40,6 +40,7 @@ function saveNote(){
         data.push(notes[i].value);
     }
 
+if(data.length === 0){
 
 
 
