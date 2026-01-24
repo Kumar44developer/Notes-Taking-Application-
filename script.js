@@ -55,6 +55,7 @@ function loadNotes(){
         lsNotes.forEach(noteText =>{
         addNote();
 
+    const notes = document.querySelectorAll(".note textarea");
 
     
 
