@@ -53,6 +53,8 @@ function loadNotes(){
     const lsNotes = JSON.parse(localStorage.getItem("notes"));
     if(lsNotes !== null){
         lsNotes.forEach(noteText =>{
+        addNote();
+
 
     
 
