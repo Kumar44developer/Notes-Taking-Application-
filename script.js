@@ -41,6 +41,7 @@ function saveNote(){
     }
 
 if(data.length === 0){
+localStorage.removeItem("notes")
 
 
 
