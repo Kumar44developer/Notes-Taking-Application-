@@ -32,6 +32,7 @@ textarea.addEventListener("input",saveNote);
 }
 
 
+function saveNote(){
 
 
 
