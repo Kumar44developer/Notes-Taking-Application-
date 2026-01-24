@@ -60,4 +60,6 @@ function loadNotes(){
     lastNote.value = noteText;
 });
     
+}else{
+   
 
