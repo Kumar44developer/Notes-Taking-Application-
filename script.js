@@ -64,3 +64,8 @@ function loadNotes(){
         addNote();
     }   
 
+}
+
+loadNotes();
+
+    
