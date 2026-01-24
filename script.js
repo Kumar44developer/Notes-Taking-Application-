@@ -25,3 +25,12 @@ trashIcon.addEventListener("click",()=>{
 
     });
 
+
+saveIcon.addEventListener("click",saveNote);
+
+
+
+
+
+    
+
