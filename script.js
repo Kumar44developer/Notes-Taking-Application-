@@ -50,6 +50,7 @@ localStorage.removeItem("notes")
 
 
 function loadNotes(){
+    const lsNotes = JSON.parse(localStorage.getItem("notes"));
 
     
 
