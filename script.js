@@ -49,6 +49,7 @@ localStorage.removeItem("notes")
 }Close saveNote function or block
 
 
+function loadNotes(){
 
     
 
