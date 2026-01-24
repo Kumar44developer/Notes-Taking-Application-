@@ -57,6 +57,7 @@ function loadNotes(){
 
     const notes = document.querySelectorAll(".note textarea");
     const lastNote = notes[notes.length - 1];
-
+    lastNote.value = noteText;
+});
     
 
