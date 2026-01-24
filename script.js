@@ -35,6 +35,7 @@ textarea.addEventListener("input",saveNote);
 function saveNote(){
     const notes = document.querySelectorAll(".note textarea")
         const data = [];
+    for(let i = 0; i < notes.length; i++)
 
 
 
