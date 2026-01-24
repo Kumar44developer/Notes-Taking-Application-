@@ -28,7 +28,8 @@ trashIcon.addEventListener("click",()=>{
 
 saveIcon.addEventListener("click",saveNote);
 textarea.addEventListener("input",saveNote);
-
+    main.appendChild(note);
+}
 
 
 
