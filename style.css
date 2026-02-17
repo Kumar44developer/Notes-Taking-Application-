@@ -9,7 +9,6 @@ body{
     background: linear-gradient(to right,rgb(242,112,156), rgb(255,148,114));
 }
 
-
 #main{
 
     min-height: 100vh;
@@ -38,7 +37,6 @@ body{
     background-color: #06a006;
 }
 
-
 .note{
     background: transparent;
     margin: 15px;
@@ -64,11 +62,10 @@ body{
     color: #aca1a1;
 }
 
-
 .note textarea{
     width: 300px;
     border: none;
-    min-height: 220px; 
+    min-height: 220px;   
     resize: none;     
     padding: 10px;
     font-size: 16px;
@@ -79,9 +76,8 @@ body{
     transition: background-color 0.3s ease;
 }
 
-
 .note textarea:hover{
-        background-color: #293e46;
+    background-color: #293e46;
 }
 
 .note textarea:focus{
